@@ -1,2 +1,2 @@
 # DeepLearning
-Deep Learning resources 
+Deep Learning resources in Wiki
